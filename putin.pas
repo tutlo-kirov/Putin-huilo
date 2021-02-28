@@ -1,4 +1,4 @@
-program raspisanie;
+program putin_huilo;
 	uses crt;
 	var huilo:string;
 	        i:integer;
